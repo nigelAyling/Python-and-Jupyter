@@ -1,0 +1,9 @@
+print("Hello world")
+print("another print")
+print("and another")
+first_num = input ("enter first number ")
+print ("This is the first number  "),first_num
+second_num = input ("enter second number ")
+third_num = first_num + second_num
+
+print (third_num)
