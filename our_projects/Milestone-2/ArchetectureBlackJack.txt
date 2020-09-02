@@ -1,8 +1,8 @@
 Classes
-card
-deck
-bank
-player
+-card
+-deck
+-bank
+-player
 
 PROGRAM
 1. Shuffle pack
@@ -28,20 +28,4 @@ PROGRAM
                 Dealer gives player $ == stake
             if hand total > players hand    
                 Bank wins
-
-
-
-3A twist or stick
-
-if twist then
-
-dealt another card
-
-if bust then lost (back takes stake)
-
-if not bust then
-
-twist or stick
-
-
 
