@@ -1,0 +1,45 @@
+# main() : this calls the rest
+# set turn = 0
+# set UserInputNumber = 0
+# update_display_data(UserInputNumber, turn)
+
+# if current_status = newGame?
+    #create newMasterList {empty board}
+    #display_board(newMasterList)
+    
+# var_player_input = player_input()    
+# update_display(var_player_input)   
+# current_master_list = update_display(UserInputNumber)
+
+#  display_board(master_list)
+
+
+    
+    
+# display_board(master_list)
+    #create 3 lists from the master_lis
+    #PRINTS board
+
+# player_input() : 
+    # Play game Y/N
+        #set turn_counter
+    # capture player input
+        #validate 
+            #integer
+            #number 1-9
+            #spot is empty
+    #:RETURN user_input_number
+    
+#update_display_data(UserInputNumber, turn)
+    #Intialize master_list
+        #if turn == 0 
+        #    [master_list == blank]
+    #Manage [master_list]
+    
+    #set player
+    #create output Lists
+    #: RETURNS: [master_list]
+
+#end_game()
+return #
+    
