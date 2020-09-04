@@ -1,10 +1,28 @@
 Classes
--card
--deck
--bank
--player
+
+card
+deck
+player
+Dealer
 
 PROGRAM
+
+SET ATTRIBUTES
+cards(suit,face,keynumber)
+deck()
+player(Name, funds)
+dealer(Name, funds)
+
+
+INITIALIZE
+deck.create_deck
+deck.shuffle_deck
+TURN == 0
+
+
+Take Turn
+
+
 1. Shuffle pack
 2. A new round starts
     A. Deal 2 cards each
