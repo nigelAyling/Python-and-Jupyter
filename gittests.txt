@@ -1,3 +1,20 @@
-1
-2
-3
+  
+        # Show cards (but keep one dealer card hidden)
+        print('Players Turn', player_playing)
+        print('Bust?:', bust)
+        print("")
+        print("----------------")
+        print("PLAYER,S HAND")
+        print("")
+        print(players_hand)
+        print("Score of hand = ",players_hand.value)
+
+
+    run dealers turn
+    
+    Dealer_will_Hit_or_Not
+        if hand.value <17:
+            dealer twist
+        else
+           run (see whos won)
+    
